@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'note2frais';
+
+  email: String | undefined;
+  password: String | undefined;
+  register(){
+
+  }
+  login(){
+
+  }
+
+
 }
